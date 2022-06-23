@@ -524,8 +524,6 @@
 0.0.0.0 rat.rakuten.co.jp
 #[facebook]
 0.0.0.0 ads.facebook.com
-0.0.0.0 an.facebook.com
-0.0.0.0 pixel.facebook.com
 #[update.fbsbx.com]
 0.0.0.0 o.update.fbsbx.com
 0.0.0.0 p.update.fbsbx.com
@@ -10869,7 +10867,6 @@
 0.0.0.0 www.adpia.vn
 #[younetmedia.com]
 0.0.0.0 digital.younetmedia.com
-0.0.0.0 facebookid.younetmedia.com
 0.0.0.0 gandalf.younetmedia.com
 0.0.0.0 git.younetmedia.com
 0.0.0.0 jenkins.younetmedia.com
@@ -11995,7 +11992,6 @@
 0.0.0.0 event.headlines.pw
 0.0.0.0 f-emc.ngsp.gov.vn
 0.0.0.0 fa.fpt.shop
-0.0.0.0 facebookinbox-omni-onapp.haravan.com
 0.0.0.0 fbuser.ovp.vn
 0.0.0.0 file-subiz.com
 0.0.0.0 follow.vnay.vn
@@ -12191,7 +12187,6 @@
 0.0.0.0 code-lienquan-vn.com
 0.0.0.0 drakeesh.com
 0.0.0.0 eventlqvn.com
-0.0.0.0 facebookz.co
 0.0.0.0 ff-member-ganena.com
 0.0.0.0 ff-member-gazeza.com
 0.0.0.0 ff-members-garena.vn
